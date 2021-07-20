@@ -2,6 +2,7 @@
   <div id="app">
     <!-- Criando componente -->
     <Conversor moeda-a="USD" moeda-b="BRL"/>
+    <Conversor moeda-a="BRL" moeda-b="USD"/>
   </div>
 </template>
 
