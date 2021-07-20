@@ -46,6 +46,8 @@
     border-radius: 5px;
     width: 300px;
     margin: 0 auto;
+    
+    margin-bottom: 15px;
 }
 
 </style>
