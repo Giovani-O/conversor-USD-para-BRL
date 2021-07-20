@@ -1,3 +1,6 @@
+Conversor de moeda feito com VueJS
+![image](https://user-images.githubusercontent.com/50748653/126316898-ae439deb-f1b4-475b-81de-b6407793888c.png)
+
 # conversor
 
 ## Project setup
